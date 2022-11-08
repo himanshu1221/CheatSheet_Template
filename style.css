@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+.logo img {
+    padding: 0px;
+    margin: 0px;
+    height: 200px;
+    width: 210px;
+}
+body{
+    background-color: black;
+}
+
+nav{
+    display: flex;
+    margin-left: 10px;
+    font-family: 'Bungee Inline', cursive;
+    color: white;
+    padding-top: 66px;
+    padding-left: 20px;
+
+}
+.container{
+    color: white;
+    margin-left: 14vw;
+    width: 68vw;
+    margin-top: 6vw;
+    font-family: 'Fjalla One', sans-serif;
+}
+
